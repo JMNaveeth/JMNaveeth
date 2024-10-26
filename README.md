@@ -1,8 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=56&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=1440&height=80&lines=Hi%2C+I'm+Naveeth+👋;Mobile+Developer+%7C+Full-Stack+Enthusiast;Creating+Innovative+Apps+with+Flutter;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=56&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&width=1440&height=80&lines=Hi%2C+I'm+Naveeth+👋;Mobile+Developer+%7C+Full-Stack+Enthusiast;Building+High-Quality+Flutter+Apps;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
   </a>
 </div>
+
 
   
   <br/>
