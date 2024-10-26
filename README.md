@@ -97,14 +97,6 @@ I'm a passionate **Mobile Developer**  with a strong background in **Information
 
 ---
 
-## 💬 Dynamic Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Naveeth&color=blue" alt="Profile Views">
 </p>
