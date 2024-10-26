@@ -4,6 +4,8 @@
   </a>
 </div>
 
+---
+
 ## 🌐 About Me
 I'm a passionate **Mobile Developer** and **Full-Stack Enthusiast** with a strong background in **Information Technology**. I specialize in building high-quality applications using **Flutter**, **JavaScript**, **Node.js**, **PHP**, and other modern technologies. I am dedicated to turning complex problems into simple, intuitive solutions.
 
@@ -31,6 +33,14 @@ I'm a passionate **Mobile Developer** and **Full-Stack Enthusiast** with a stron
 - **[Handyman App](https://github.com/your-repo-link)**: Flutter-based app for booking home services like cleaning, plumbing, and electrical repairs.
 - **[Shop App](https://github.com/your-repo-link)**: E-commerce app that provides a seamless shopping experience with payment integration.
 - **[Portfolio Website](https://your-portfolio-link.com)**: Showcases my work and personal projects.
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Naveeth&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph">
+</p>
 
 ---
 
@@ -84,6 +94,14 @@ I'm a passionate **Mobile Developer** and **Full-Stack Enthusiast** with a stron
 - **Certified Flutter Developer**: [Link to Certificate](https://cert-link.com)
 - **JavaScript Algorithms and Data Structures**: [Link to Certificate](https://cert-link.com)
 - **Full-Stack Web Development**: [Link to Certificate](https://cert-link.com)
+
+---
+
+## 💬 Dynamic Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
+</p>
 
 ---
 
