@@ -4,14 +4,6 @@
   </a>
 </div>
 
-
-
-
-
-
-
----
-
 ## 🌐 About Me
 I'm a passionate **Mobile Developer** and **Full-Stack Enthusiast** with a strong background in **Information Technology**. I specialize in building high-quality applications using **Flutter**, **JavaScript**, **Node.js**, **PHP**, and other modern technologies. I am dedicated to turning complex problems into simple, intuitive solutions.
 
