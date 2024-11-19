@@ -30,9 +30,51 @@ I'm a passionate **Mobile Developer**  with a strong background in **Information
 
 ## 🚀 Projects
 
-- **[Handyman App](https://github.com/your-repo-link)**: Flutter-based app for booking home services like cleaning, plumbing, and electrical repairs.
-- **[Shop App](https://github.com/your-repo-link)**: E-commerce app that provides a seamless shopping experience with payment integration.
-- **[Portfolio Website](https://your-portfolio-link.com)**: Showcases my work and personal projects.
+### 1️⃣ Handyman App
+A Flutter-based app for booking home services like cleaning, plumbing, and electrical repairs.
+
+- **Features**:
+  - On-demand booking
+  - Real-time notifications
+  - Payment gateway integration
+
+<p align="center">
+  <a href="https://github.com/your-repo-link">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=500&color=0A66C2&width=450&lines=🔗+Click+here+to+view+the+Handyman+App+Repository" alt="Handyman App">
+  </a>
+</p>
+
+---
+
+### 2️⃣ Shop App
+An e-commerce app that provides a seamless shopping experience with integrated payment options.
+
+- **Features**:
+  - User-friendly UI
+  - Secure payment system
+  - Wishlist and cart functionalities
+
+<p align="center">
+  <a href="https://github.com/your-repo-link">
+    <img src="https://img.shields.io/badge/-Explore%20Shop%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Shop App">
+  </a>
+</p>
+
+---
+
+### 3️⃣ Portfolio Website
+Showcases my work and personal projects, highlighting my skills and achievements.
+
+- **Features**:
+  - Responsive design
+  - Interactive animations
+  - Contact form integration
+
+<p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-portfolio-repo&theme=radical&hide_border=true" alt="Portfolio Website">
+  </a>
+</p>
 
 ---
 
