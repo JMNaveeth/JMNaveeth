@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Hi,+I'm+Naveeth+👋;+Passionate+Developer+and+Tech+Enthusiast" alt="Typing SVG">
 </div>
 
----
+
+
 ---
 
 ### 🌐 About Me  
