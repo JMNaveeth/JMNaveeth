@@ -6,8 +6,20 @@
 
 ---
 
-## 🌐 About Me
-I'm a passionate **Mobile Developer**  with a strong background in **Information Technology**. I specialize in building high-quality applications using **Flutter**, **Node.js**,  **JavaScript**, **PHP**, and other modern technologies. I am dedicated to turning complex problems into simple, intuitive solutions.
+## 🌟 About Me
+I'm Muhammed Naveeth, a passionate **Mobile Developer** with expertise in **Flutter**, **Node.js**, **JavaScript**, and more. I enjoy solving complex problems and transforming ideas into impactful applications. My professional journey revolves around the pursuit of **high-quality code** and innovative solutions in **Information Technology**.
+
+---
+
+## 🌐 Find Me Online
+<p align="center">
+  <a href="https://github.com/JMNaveeth?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/muhammed-naveeth/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
@@ -21,77 +33,42 @@ I'm a passionate **Mobile Developer**  with a strong background in **Information
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
 ---
 
-## 🚀 Projects
+## 📂 Repositories
 
-### 1️⃣ Handyman App
-A Flutter-based app for booking home services like cleaning, plumbing, and electrical repairs.
+### 🌟 **Featured Projects**
+1. **Handyman App**: Flutter app for booking home services.
+   - [🔗 GitHub Repository](https://github.com/JMNaveeth?tab=repositories)
 
-- **Features**:
-  - On-demand booking
-  - Real-time notifications
-  - Payment gateway integration
+2. **Shop App**: E-commerce app with payment integration.
+   - [🔗 GitHub Repository](https://github.com/JMNaveeth?tab=repositories)
 
-<p align="center">
-  <a href="https://github.com/your-repo-link">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=500&color=0A66C2&width=450&lines=🔗+Click+here+to+view+the+Handyman+App+Repository" alt="Handyman App">
-  </a>
-</p>
+3. **Portfolio Website**: Responsive and interactive website showcasing my work.
+   - [🔗 GitHub Repository](https://github.com/JMNaveeth?tab=repositories)
 
 ---
 
-### 2️⃣ Shop App
-An e-commerce app that provides a seamless shopping experience with integrated payment options.
+## 📜 Certifications
 
-- **Features**:
-  - User-friendly UI
-  - Secure payment system
-  - Wishlist and cart functionalities
-
-<p align="center">
-  <a href="https://github.com/your-repo-link">
-    <img src="https://img.shields.io/badge/-Explore%20Shop%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Shop App">
-  </a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter%20Developer-Certified-02569B?style=for-the-badge&logo=flutter" alt="Flutter Certification">
+  <img src="https://img.shields.io/badge/JavaScript%20Algorithms%20and%20Data%20Structures-Certified-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Certification">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Development-Certified-1572B6?style=for-the-badge&logo=html5" alt="Web Development Certification">
+</div>
 
 ---
 
-### 3️⃣ Portfolio Website
-Showcases my work and personal projects, highlighting my skills and achievements.
-
-- **Features**:
-  - Responsive design
-  - Interactive animations
-  - Contact form integration
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-portfolio-repo&theme=radical&hide_border=true" alt="Portfolio Website">
-  </a>
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Naveeth&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph">
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveeth&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveeth&theme=radical&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveeth&layout=compact&hide_border=true&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=JMNaveeth&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMNaveeth&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMNaveeth&layout=compact&hide_border=true&theme=radical" alt="Top Languages">
 </p>
 
 ---
@@ -99,48 +76,13 @@ Showcases my work and personal projects, highlighting my skills and achievements
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naveeth&theme=dracula&no-frame=true&row=1&column=7" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=JMNaveeth&theme=dracula&no-frame=true&row=1&column=7" alt="Trophies">
 </p>
 
 ---
 
-## 📫 Connect with Me
-
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/-Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/Naveeth">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
-
-## ✍️ Latest Blog Posts
-
-- **[Understanding Flutter Widgets](https://your-blog-link.com)**: Deep dive into how to use Flutter widgets effectively.
-- **[Optimizing JavaScript Performance](https://your-blog-link.com)**: Tips for improving performance in JavaScript applications.
-- **[My Journey into Mobile Development](https://your-blog-link.com)**: A personal blog about transitioning to mobile app development.
-
----
-
-## 🎓 Certifications
-
-- **Certified Flutter Developer**: [Link to Certificate](https://cert-link.com)
-- **JavaScript Algorithms and Data Structures**: [Link to Certificate](https://cert-link.com)
-- **Full-Stack Web Development**: [Link to Certificate](https://cert-link.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naveeth&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=JMNaveeth&color=blue" alt="Profile Views">
 </p>
 
 <p align="center">
