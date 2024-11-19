@@ -1,95 +1,124 @@
-<!-- Title and Introduction with Typing Animation -->
+<!-- Animated Header with Typing Effect and Background -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=0A66C2&background=000000&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Muhammed+Naveeth;💻+Mobile+Developer+and+Technologist;🚀+Exploring+Innovation" alt="Typing Animation" />
+  <h1 align="center">Welcome to My GitHub Profile 👋</h1>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=0A66C2&background=000000&center=true&vCenter=true&width=1000&lines=🚀+I+am+Muhammed+Naveeth;💻+Mobile+Developer;💡+Building+the+Future+of+Tech;🔥+Passionate+about+Innovation" alt="Typing Animation" />
+  </p>
 </div>
 
 ---
 
-<!-- About Me Section with Icons -->
+<!-- Professional Description -->
 
-## 🌍 About Me  
-Hello, I'm **Muhammed Naveeth**, a passionate **Mobile Developer** and **Software Engineer** focused on **Flutter**, **Node.js**, and cutting-edge web technologies. I thrive on building impactful software that simplifies life.  
+## About Me 🌍
 
-- 📱 **Mobile Development:** Flutter, React Native
-- 🌐 **Full-Stack Web Development:** Node.js, JavaScript, PHP, MySQL
-- 💡 **Innovative Problem Solver**  
-- 🔧 **Always Learning:** Currently diving into **AI**, **Machine Learning**, and **Cloud Computing**
+I'm **Muhammed Naveeth**, a **Mobile Developer** with a strong passion for **innovative tech solutions**. I specialize in **Flutter**, **React**, and **Node.js**, creating seamless experiences that connect users to technology in new ways.
+
+- **Mobile Development**: Flutter, React Native
+- **Web Development**: JavaScript, Node.js, PHP, MySQL, TypeScript
+- **Cloud**: AWS, Firebase
+- **AI & ML**: Exploring Artificial Intelligence and Machine Learning
+- **Open Source Contributor**: Constantly sharing knowledge and building the community
 
 ---
 
-<!-- Stats & GitHub Overview -->
+<!-- Animated GitHub Stats with Dark Mode Theme -->
 
-## 📊 GitHub Stats  
+## GitHub Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JMNaveeth&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMNaveeth&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JMNaveeth&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMNaveeth&theme=dark&hide_border=true" alt="GitHub Streak" width="400" />
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+<!-- Showcase of Featured Projects with Hover Effects -->
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JMNaveeth&theme=radical&no-frame=true&column=4&row=2" alt="GitHub Trophies">
-</div>
+## Featured Projects 🚀
 
----
+### **[TapOn - Service & Tool Rental App](https://github.com/JMNaveeth/tapon)**
 
-<!-- Key Projects Section with Dynamic Badges -->
+An innovative mobile application for booking handyman services and renting tools on demand.
 
-## 🔥 Featured Projects
-
-### 1. **[TapOn - Service & Tool Rental App](https://github.com/JMNaveeth/tapon)**  
-A comprehensive mobile app for booking handyman services and renting tools.  
-- **Tech Stack:** Flutter, Firebase, Node.js
-- **Features:**  
-  - Live Chatbot Support  
-  - Pre-Booking and Scheduling  
-  - Real-Time Tracking of Service Requests
+- **Tech Stack**: Flutter, Firebase, Node.js
+- **Key Features**:
+  - **Real-time Chatbot Assistance** 🤖
+  - **Pre-Booking & Scheduling** 🗓️
+  - **Quick Service Tracking** ⏱️
+- 📱 [Check it out on GitHub](https://github.com/JMNaveeth/tapon)
 
 ---
 
-### 2. **[React Portfolio Website](https://github.com/JMNaveeth/portfolio)**  
-A professional portfolio website to showcase my skills and projects.  
-- **Tech Stack:** React, TypeScript, Vite
-- **Features:**  
-  - Dynamic Content Display  
-  - Fully Responsive  
-  - Smooth Navigation
+### **[React Portfolio Website](https://github.com/JMNaveeth/portfolio)**
+
+A sleek portfolio to showcase my projects, skills, and achievements, built using modern web technologies.
+
+- **Tech Stack**: React, TypeScript, Vite
+- **Key Features**:
+  - **Fully Responsive** 📱💻
+  - **Interactive UI** 🎨
+  - **Smooth Navigation** 🚀
+- 💻 [Explore the Website](https://github.com/JMNaveeth/portfolio)
 
 ---
 
-### 3. **[Grilli - Restaurant Website](https://github.com/JMNaveeth/grilli)**  
-A responsive, interactive restaurant website using basic web technologies.  
-- **Tech Stack:** HTML5, CSS3, JavaScript
-- **Features:**  
-  - Mobile-First Design  
-  - Interactive Menu UI  
-  - Cross-Device Compatibility  
+### **[Grilli - Restaurant Website](https://github.com/JMNaveeth/grilli)**
+
+A responsive restaurant website with a focus on interactive menus and mobile-first design.
+
+- **Tech Stack**: HTML5, CSS3, JavaScript
+- **Key Features**:
+  - **Mobile-First Design** 📱
+  - **Interactive UI Elements** 🖱️
+  - **Real-Time Menu Updates** 🍽️
+- 🌐 [Live Demo Here](https://codewithsadee.github.io/grilli/)
 
 ---
 
-<!-- Technology Stack Section with Modern Icons -->
+<!-- Latest Blog Posts (Dynamic & Interactive) -->
 
-## 💻 Tech Stack
+## Latest Blog Posts 📚
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-</div>
+- **[Building a Chatbot with Flutter](https://medium.com/@JMNaveeth/chatbot-flutter-guide)**  
+  Dive into creating intelligent chatbots that can serve your app's users efficiently.
+  
+- **[React Native vs Flutter: Which is Better for Cross-Platform Apps?](https://medium.com/@JMNaveeth/flutter-vs-react-native)**  
+  A deep dive into the pros and cons of Flutter and React Native for mobile development.
+
+- **[AI in Mobile Apps: The Next Frontier](https://medium.com/@JMNaveeth/ai-in-mobile-apps)**  
+  How Artificial Intelligence is revolutionizing the mobile app industry.
 
 ---
 
-<!-- Connect with Me Section -->
+<!-- Display Skills & Technologies with Icons -->
+
+## 🛠️ Tech Stack & Skills
+
+### **Mobile Development** 📱
+  - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  - ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### **Backend Development** ⚙️
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  - ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### **Frontend Development** 🌐
+  - ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **Databases** 🗄️
+  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Cloud** ☁️
+  - ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+<!-- Social Media and Contact Links -->
 
 ## 🌐 Connect with Me
 
@@ -107,23 +136,13 @@ A responsive, interactive restaurant website using basic web technologies.
 
 ---
 
-<!-- Certifications Section -->
+<!-- Footer with Dynamic Visitor Counter and Quote -->
 
-## 🎓 Certifications  
-
-- **Certified Flutter Developer**  
-- **JavaScript Algorithms and Data Structures**  
-- **Full-Stack Web Development**
-
----
-
-<!-- Footer Section with GitHub Profile View Counter -->
-
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=JMNaveeth&color=blue" alt="Profile Views">
-</p>
+</div>
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
+  <em>“Innovation is the ability to see change as an opportunity – not a threat.” – Steve Jobs</em>
 </p>
 
