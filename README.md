@@ -3,6 +3,7 @@
 </div>
 
 ---
+---
 
 ### 🌐 About Me  
 I'm **Muhammed Naveeth**, a tech-savvy **Mobile Developer** with a focus on creating high-quality, impactful applications using modern technologies. I specialize in **Flutter**, **Node.js**, **JavaScript**, **PHP**, and more.  
