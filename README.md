@@ -1,6 +1,6 @@
-<!-- GIF Header with Tech-Themed Animation -->
+<!-- Header Section with Animated Tech GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlA3k9RdiL1Jv3K/giphy.gif" width="600" alt="Tech Animation" />
+  <img src="https://raw.githubusercontent.com/JMNaveeth/your-repository/assets/tech-animation.gif" width="600" alt="Tech Animation" />
   <h1 align="center">Welcome to My GitHub Profile 👨‍💻</h1>
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=0A66C2&background=000000&center=true&vCenter=true&width=1000&lines=🚀+Hi!+I+am+Muhammed+Naveeth;💻+Innovating+with+Tech;🔥+Mobile+Developer;🔍+Exploring+AI+and+ML;🌐+Building+The+Future" alt="Typing Animation"/>
@@ -9,101 +9,70 @@
 
 ---
 
-<!-- About Me Section with Cool Tech Icon Animation -->
 ## About Me 💻🌍
+Hello! I'm **Muhammed Naveeth**, a passionate **Mobile Developer** specializing in cutting-edge technologies like **Flutter**, **Node.js**, and **JavaScript**. I strive to create **innovative, high-quality apps** that solve real-world problems, and I’m always excited to explore new areas like **AI**, **Machine Learning**, and **Web Development**.
 
-Hello! I'm **Muhammed Naveeth**, a passionate **Mobile Developer** specializing in cutting-edge technologies like **Flutter**, **React Native**, **Node.js**, and more. I believe in transforming ideas into digital solutions that drive innovation.
-
-### 🔧 What I Do:
-- **Mobile Development**: Flutter, React Native
-- **Web Development**: JavaScript, React, TypeScript, Node.js
-- **AI/ML**: Exploring AI and Machine Learning applications
-- **Cloud**: AWS, Firebase, Cloud Integration
-
-### 🌱 My Mission:
-- Building intuitive, high-performance mobile apps.
-- Fostering innovation in AI and Machine Learning.
-- Contributing to the global open-source community.
+- 🔥 **Skills**: Flutter, JavaScript, Node.js, MySQL, PHP, React
+- 🌐 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/muhammed-naveeth/) | [GitHub](https://github.com/JMNaveeth)
 
 ---
 
-<!-- Animated Tech Stats with Modern UI -->
-## GitHub Stats 📊
-
-<div align="center">
-  <!-- Animated Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JMNaveeth&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMNaveeth&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
-</div>
-
----
-
-<!-- Showcase of Projects with Hover Animations -->
 ## 🚀 Featured Projects
 
 ### **[TapOn - Service & Tool Rental App](https://github.com/JMNaveeth/tapon)**
-A cutting-edge mobile app for tool rentals and handyman services, powered by **Flutter** and **Firebase**.
+A mobile app that connects users to handyman services and tool rentals. It features a live chatbot for instant support and a quick match tracking system for service requests.
 
-- **Key Features**:
-  - Real-time **Chatbot Assistance** 🤖
-  - **Pre-Booking** and scheduling of services 🗓️
-  - **Quick Match Tracking** ⏱️
-  
-![TapOn Demo](https://media.giphy.com/media/xT0BKCnFxnO3H3tBfy/giphy.gif)
+![TapOn Demo](https://raw.githubusercontent.com/JMNaveeth/your-repository/assets/tapon-demo.gif)
 
 ---
 
 ### **[React Portfolio Website](https://github.com/JMNaveeth/portfolio)**
+A professional portfolio website built with React and TypeScript, showcasing my skills, projects, and blog posts.
 
-A responsive and interactive portfolio showcasing my skills, projects, and achievements.
-
-- **Tech Stack**: React, TypeScript, Vite
-- **Key Features**:
-  - Fully **responsive design** 📱💻
-  - **Smooth UI animations** 🎨
-  - **Interactive page transitions** 🚀
-
-![Portfolio Demo](https://media.giphy.com/media/jTzInLez5nYUM/giphy.gif)
+![Portfolio Demo](https://raw.githubusercontent.com/JMNaveeth/your-repository/assets/portfolio-demo.gif)
 
 ---
 
 ### **[Grilli - Restaurant Website](https://github.com/JMNaveeth/grilli)**
+A responsive restaurant website featuring a dynamic menu, reservation system, and contact page. Built with HTML, CSS, and JavaScript.
 
-An interactive, mobile-first website for a restaurant that provides real-time menu updates and a dynamic experience.
-
-- **Tech Stack**: HTML5, CSS3, JavaScript
-- **Key Features**:
-  - **Real-Time Menu Updates** 🍽️
-  - **Mobile-First Responsive Design** 📱
-  
-![Grilli Demo](https://media.giphy.com/media/6OeZTDoOF0hyK7oyXb/giphy.gif)
+![Grilli Demo](https://raw.githubusercontent.com/JMNaveeth/your-repository/assets/grilli-demo.gif)
 
 ---
 
-<!-- Tech Stack Section with Modern Animated Icons -->
-## 🔧 Tech Stack & Tools
+## 🌐 My Tech Stack
+I work with a variety of technologies to build innovative solutions:
 
-### **Mobile Development** 📱
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### **Backend Development** ⚙️
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### **Frontend Development** 🌐
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **Cloud & AI** ☁️🤖
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</div>
 
 ---
 
-<!-- Social Links with Custom Icons -->
-## 🌐 Connect with Me
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JMNaveeth&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMNaveeth&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMNaveeth&layout=compact&hide_border=true&theme=radical" alt="Top Languages">
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JMNaveeth&theme=dracula&no-frame=true&row=1&column=7" alt="Trophies">
+</div>
+
+---
+
+## 🌍 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammed-naveeth/" target="_blank">
@@ -112,20 +81,33 @@ An interactive, mobile-first website for a restaurant that provides real-time me
   <a href="https://github.com/JMNaveeth" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:muhammed.naveeth@example.com">
+  <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
 ---
 
-<!-- Footer with GitHub Visitor Count -->
-## 📈 Profile Stats
+## ✍️ Latest Blog Posts
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JMNaveeth&color=blue" alt="Profile Views">
-</div>
+- **[Understanding Flutter Widgets](https://your-blog-link.com)**: A deep dive into Flutter widgets and how to use them efficiently.
+- **[Optimizing JavaScript Performance](https://your-blog-link.com)**: Best practices for boosting performance in JavaScript applications.
+- **[My Journey into Mobile Development](https://your-blog-link.com)**: How I transitioned into mobile development and the lessons learned.
+
+---
+
+## 🎓 Certifications
+
+- **[Certified Flutter Developer](https://cert-link.com)**: An official certification recognizing my skills in Flutter development.
+- **[JavaScript Algorithms and Data Structures](https://cert-link.com)**: Certification that demonstrates my knowledge of algorithms and data structures in JavaScript.
+- **[Full-Stack Web Development](https://cert-link.com)**: A comprehensive certification in full-stack web development.
+
+---
 
 <p align="center">
-  <em>“The best way to predict the future is to create it.” – Peter Drucker</em>
+  <img src="https://komarev.com/ghpvc/?username=JMNaveeth&color=blue" alt="Profile Views">
+</p>
+
+<p align="center">
+  <em>“Talk is cheap. Show me the code.” – Linus Torvalds</em>
 </p>
