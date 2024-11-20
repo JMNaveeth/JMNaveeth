@@ -62,27 +62,47 @@
 </div>
 
 ---
+---
 
 ## 🚀 Featured Projects
 
-### **[TapOn - Service & Tool Rental App](https://github.com/JMNaveeth/tapon)**
-A mobile app that connects users to handyman services and tool rentals. It features a live chatbot for instant support and a quick match tracking system for service requests.
+<div align="center">
 
-![TapOn Demo](https://raw.githubusercontent.com/JMNaveeth/your-repository/assets/tapon-demo.gif)
+### **🌟 TapOn - Service & Tool Rental App**  
+💼 A mobile app connecting users to handyman services and tool rentals.  
+💬 Features a live chatbot and a quick match tracking system.
+
+<p>
+  <a href="https://github.com/JMNaveeth/tapon">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=FFA500&center=true&vCenter=true&width=500&lines=🛠+Seamless+Service+Integration;🤖+AI-Powered+Chatbot;🚀+Built+with+Flutter+and+Node.js" alt="TapOn Highlights">
+  </a>
+</p>
 
 ---
 
-### **[React Portfolio Website](https://github.com/JMNaveeth/portfolio)**
-A professional portfolio website built with React and TypeScript, showcasing my skills, projects, and blog posts.
+### **🌟 React Portfolio Website**  
+💻 A professional portfolio website showcasing my skills, projects, and blog posts.  
+🖥 Built with React and TypeScript for a modern design.
 
-![Portfolio Demo](https://raw.githubusercontent.com/JMNaveeth/your-repository/assets/portfolio-demo.gif)
+<p>
+  <a href="https://github.com/JMNaveeth/portfolio">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=00C4FF&center=true&vCenter=true&width=500&lines=📂+Interactive+Portfolio;⚡+Built+with+React+and+TypeScript;🌐+Responsive+and+Elegant+Design" alt="Portfolio Highlights">
+  </a>
+</p>
 
 ---
 
-### **[Grilli - Restaurant Website](https://github.com/JMNaveeth/grilli)**
-A responsive restaurant website featuring a dynamic menu, reservation system, and contact page. Built with HTML, CSS, and JavaScript.
+### **🌟 Grilli - Restaurant Website**  
+🍴 A responsive restaurant website featuring a dynamic menu and reservation system.  
+🍽 Built with HTML, CSS, and JavaScript.
 
-![Grilli Demo](https://raw.githubusercontent.com/JMNaveeth/your-repository/assets/grilli-demo.gif)
+<p>
+  <a href="https://github.com/JMNaveeth/grilli">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=00FF7F&center=true&vCenter=true&width=500&lines=🍝+Dynamic+Menu+System;🎉+Real-Time+Reservations;🌐+Responsive+Design+for+Web+and+Mobile" alt="Grilli Highlights">
+  </a>
+</p>
+
+</div>
 
 ---
 
