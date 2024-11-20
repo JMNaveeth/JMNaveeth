@@ -12,7 +12,7 @@
 ## <div align="center">✨ About Me 💻🌍 ✨</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Problem Solving Animation" />
 </div>
 
 <div align="center">
@@ -43,10 +43,6 @@
     <li><strong>📚 Favorite Tech:</strong> Flutter, Node.js, and AI Integration.</li>
     <li><strong>🎓 Certifications:</strong> Certified Flutter Developer, JavaScript Algorithms Specialist.</li>
   </ul>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Problem Solving Animation" />
 </div>
 
 ---
