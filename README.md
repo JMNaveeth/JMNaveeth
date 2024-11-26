@@ -147,18 +147,10 @@ I work with a variety of technologies to build innovative solutions:
   <a href="https://github.com/JMNaveeth" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:naveethkinniya2001@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-
----
-
-## ✍️ Latest Blog Posts
-
-- **[Understanding Flutter Widgets](https://your-blog-link.com)**: A deep dive into Flutter widgets and how to use them efficiently.
-- **[Optimizing JavaScript Performance](https://your-blog-link.com)**: Best practices for boosting performance in JavaScript applications.
-- **[My Journey into Mobile Development](https://your-blog-link.com)**: How I transitioned into mobile development and the lessons learned.
 
 ---
 
