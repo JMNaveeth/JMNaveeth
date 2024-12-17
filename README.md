@@ -17,7 +17,7 @@
 
 <div align="center">
 
-  <h3 align="center">Hello, World! 🌐 I'm <span style="color:#4CAF50;"> Naveeth</span></h3>
+  <h3 align="center">Hello, World! 🌐 I'm <span style="color:#4CAF50;">Muhammed Naveeth</span></h3>
 
   <p>
     🚀 A passionate <strong>Mobile Developer</strong> with a love for innovation and technology. I specialize in creating seamless user experiences 
@@ -39,9 +39,7 @@
 <div align="center">
   <ul style="list-style: square; text-align: left; display: inline-block;">
     <li><strong>🌱 Currently Exploring:</strong> Advanced AI Models and Cloud Computing.</li>
-    <li><strong>🎯 Goal:</strong> To create cutting-edge solutions that simplify everyday life.</li>
-    <li><strong>📚 Favorite Tech:</strong> Flutter, Node.js, and AI Integration.</li>
-    <li><strong>🎓 Certifications:</strong> Certified Flutter Developer, JavaScript Algorithms Specialist.</li>
+   
   </ul>
 </div>
 
