@@ -1,7 +1,7 @@
 <!-- Header Section with Animated Tech GIF -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/JMNaveeth/your-repository/assets/tech-animation.gif" width="600" alt="Tech Animation" />
-  <h1 align="center">Welcome to My GitHub Profile 👨‍💻</h1>
+  <h1 align="center">Welcome to My  👨‍💻</h1>
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=0A66C2&background=000000&center=true&vCenter=true&width=1000&lines=🚀+Hi!+I+am+Muhammed+Naveeth;🔥+Mobile+Developer;🔍+Exploring+AI" alt="Typing Animation"/>
   </p>
