@@ -17,7 +17,7 @@
 
 <div align="center">
 
-  <h3 align="center">Hello, World! 🌐 I'm <span style="color:#4CAF50;">Muhammed Naveeth</span></h3>
+  <h3 align="center">Hello, World! 🌐 I'm <span style="color:#4CAF50;"> Naveeth</span></h3>
 
   <p>
     🚀 A passionate <strong>Mobile Developer</strong> with a love for innovation and technology. I specialize in creating seamless user experiences 
