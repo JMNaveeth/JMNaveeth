@@ -80,14 +80,7 @@
 ---
 
 ### **🌟 React Portfolio Website**  
-💻 A professional portfolio website showcasing my skills, projects, and blog posts.  
-🖥 Built with React and TypeScript for a modern design.
 
-<p>
-  <a href="https://github.com/JMNaveeth/portfolio">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=00C4FF&center=true&vCenter=true&width=500&lines=📂+Interactive+Portfolio;⚡+Built+with+React+and+TypeScript;🌐+Responsive+and+Elegant+Design" alt="Portfolio Highlights">
-  </a>
-</p>
 
 ---
 
