@@ -33,7 +33,16 @@
 </div>
 
 ---
+### **👨‍💻 Quick Facts About Me:**
 
+<div align="center">
+  <ul style="list-style: square; text-align: left; display: inline-block;">
+    <li><strong>🌱 Currently Exploring:</strong> Advanced AI Models and Cloud Computing.</li>
+    <li><strong>🎯 Goal:</strong> To create cutting-edge solutions that simplify everyday life.</li>
+    <li><strong>📚 Favorite Tech:</strong> Flutter, Node.js, and AI Integration.</li>
+    <li><strong>🎓 Certifications:</strong> Certified Flutter Developer, JavaScript Algorithms Specialist.</li>
+  </ul>
+</div>
 
 ---
 
