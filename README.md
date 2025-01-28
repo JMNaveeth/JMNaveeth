@@ -9,47 +9,7 @@
 
 ---
 
-## <div align="center">✨ About Me 💻🌍 ✨</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Problem Solving Animation" />
-</div>
-
-<div align="center">
-
-  <h3 align="center">Hello, World! 🌐 I'm <span style="color:#4CAF50;">Muhammed Naveeth</span></h3>
-
-  <p>
-    🚀 A passionate <strong>Mobile Developer</strong> with a love for innovation and technology. I specialize in creating seamless user experiences 
-    with **Flutter**, **React**, and **Node.js**. Always eager to explore the frontiers of technology, I constantly challenge myself to stay ahead in
-    the rapidly evolving IT landscape.
-  </p>
-
-  <p>
-    💡 Whether it's building interactive UIs or diving deep into the mechanics of back-end APIs, I am driven to solve real-world problems with 
-    elegant, efficient, and scalable solutions.
-  </p>
-
-</div>
-
----
-### **👨‍💻 Quick Facts About Me:**
-
-<div align="center">
-  <ul style="list-style: square; text-align: left; display: inline-block;">
-    <li><strong>🌱 Currently Exploring:</strong> Advanced AI Models and Cloud Computing.</li>
-    <li><strong>🎯 Goal:</strong> To create cutting-edge solutions that simplify everyday life.</li>
-    <li><strong>📚 Favorite Tech:</strong> Flutter, Node.js, and AI Integration.</li>
-    <li><strong>🎓 Certifications:</strong> Certified Flutter Developer, JavaScript Algorithms Specialist.</li>
-  </ul>
-</div>
-
----
-
-### **🌟 Why Choose Me?**
-
-<div align="center">
-  <p>
     💼 With a strong background in <strong>Information Technology</strong>, I bring a unique blend of analytical skills, creativity, and hands-on 
     expertise to every project. My mission is to deliver high-quality products that create an impact.
   </p>
