@@ -87,16 +87,7 @@
   <a href="https://github.com/JMNaveeth/portfolio">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=00C4FF&center=true&vCenter=true&width=500&lines=📂+Interactive+Portfolio;⚡+Built+with+React+and+TypeScript;🌐+Responsive+and+Elegant+Design" alt="Portfolio Highlights">
   </a>
-</p>
 
----
-
-### **🌟 Grilli - Restaurant Website**  
-🍴 A responsive restaurant website featuring a dynamic menu and reservation system.  
-🍽 Built with HTML, CSS, and JavaScript.
-
-<p>
-  <a href="https://github.com/JMNaveeth/grilli">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=00FF7F&center=true&vCenter=true&width=500&lines=🍝+Dynamic+Menu+System;🎉+Real-Time+Reservations;🌐+Responsive+Design+for+Web+and+Mobile" alt="Grilli Highlights">
   </a>
 </p>
