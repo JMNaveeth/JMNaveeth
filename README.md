@@ -129,3 +129,42 @@ I work with a variety of technologies to build innovative solutions:
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JMNaveeth&theme=dracula&no-frame=true&row=1&column=7" alt="Trophies">
+</div>
+
+---
+
+## 🌍 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammed-naveeth/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/JMNaveeth" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:naveethkinniya2001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+---
+
+## 🎓 Certifications
+
+- **[Certified Flutter Developer](https://cert-link.com)**: An official certification recognizing my skills in Flutter development.
+- **[JavaScript Algorithms and Data Structures](https://cert-link.com)**: Certification that demonstrates my knowledge of algorithms and data structures in JavaScript.
+- **[Full-Stack Web Development](https://cert-link.com)**: A comprehensive certification in full-stack web development.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JMNaveeth&color=blue" alt="Profile Views">
+</p>
+
+<p align="center">
+  <em>“Talk is cheap. Show me the code.” – Linus Torvalds</em>
+</p>
