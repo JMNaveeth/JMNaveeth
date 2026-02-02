@@ -258,16 +258,12 @@ I'm always excited to collaborate on innovative projects, especially those invol
 ---
 
 <div align="center">
-  
----
 
 ## 💡 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
