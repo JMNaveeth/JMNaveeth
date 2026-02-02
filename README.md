@@ -54,8 +54,7 @@ const naveeth = {
 <!-- 3D Tech Stack with Skill Icons -->
 <!-- Rotating Tech Icons -->
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80" />
+<img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="65" height="65" />  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
