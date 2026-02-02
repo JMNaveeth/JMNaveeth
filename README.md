@@ -169,7 +169,6 @@ const naveeth = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JMNaveeth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JMNaveeth&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </div>
 
