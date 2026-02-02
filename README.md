@@ -233,14 +233,6 @@ An elegant restaurant website with dynamic menu and reservation system.
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
 ## 🤝 Let's Collaborate!
 
 <div align="center">
@@ -267,13 +259,13 @@ I'm always excited to collaborate on innovative projects, especially those invol
 
 <div align="center">
   
-### 💭 Thought of the Day
+---
 
-*"The only way to do great work is to love what you do."* – Steve Jobs
+## 💡 Random Dev Quote
 
-### 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-jmnaveeth.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 ---
 
@@ -282,12 +274,3 @@ I'm always excited to collaborate on innovative projects, especially those invol
 **⭐ From [JMNaveeth](https://github.com/JMNaveeth) | Building the future, one commit at a time**
 
 </div>
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JMNaveeth&color=blue" alt="Profile Views">
-</p>
-
-<p align="center">
-  <em>“Talk is cheap. Show me the code.” – Linus Torvalds</em>
-</p>
