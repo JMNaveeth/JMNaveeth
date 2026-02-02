@@ -170,8 +170,6 @@ const naveeth = {
 
 <br/>
 
-<br/>
-
 ## 🚀 Featured Projects
 
 <table align="center">
@@ -295,13 +293,6 @@ const naveeth = {
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JMNaveeth&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
-</div>
-
-<br/>
 
 ## 📜 Certifications
 
@@ -318,13 +309,6 @@ const naveeth = {
 
 <br/>
 
-## 💡 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<br/>
 
 ## 🤝 Let's Connect!
 
@@ -357,9 +341,11 @@ Especially interested in:
 
 <div align="center">
 
-### 💭 Philosophy
+## 💡 Dev Quote
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 <br/>
 
