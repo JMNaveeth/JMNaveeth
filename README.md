@@ -20,7 +20,6 @@
   <a href="https://github.com/JMNaveeth">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=JMNaveeth&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
@@ -230,14 +229,6 @@ An elegant restaurant website with dynamic menu and reservation system.
 | 🎓 Full-Stack Web Development | Coursera | 2024 | [View](https://cert-link.com) |
 | 🎓 Node.js Backend Development | Udemy | 2024 | [View](https://cert-link.com) |
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JMNaveeth&custom_title=Contribution%20Graph&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="100%">
 </div>
 
 ---
