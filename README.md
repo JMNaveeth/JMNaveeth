@@ -13,9 +13,8 @@
 
 <br/>
 
-<!-- Profile view counter + social badges -->
+<!-- social badges -->
 <p>
- 
   &nbsp;
   <a href="https://www.linkedin.com/in/muhammed-naveeth/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
@@ -25,7 +24,10 @@
     <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
   &nbsp;
-  
+  <a href="https://wa.me/94759560114">
+    <img src="https://img.shields.io/badge/WhatsApp-+94_759560114-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" />
+  </a>
+  &nbsp;
 </p>
 
 </div>
