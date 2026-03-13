@@ -15,7 +15,7 @@
 
 <!-- Profile view counter + social badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=JMNaveeth&label=Profile+Views&color=0e75b6&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
+ 
   &nbsp;
   <a href="https://www.linkedin.com/in/muhammed-naveeth/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open_To-Opportunities-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0D1117" />
+  
 </p>
 
 </div>
