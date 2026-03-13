@@ -1,356 +1,314 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammed%20Naveeth&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CINEMATIC HEADER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- Dynamic Typing Animation -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0F3460,100:16213E&height=250&section=header&text=Muhammed%20Naveeth&fontSize=55&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Mobile%20Developer%20%E2%80%A2%20Full%E2%80%91Stack%20Engineer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=18&descColor=94A3B8" width="100%"/>
+
+<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Mobile+Developer+%F0%9F%93%B1;Full-Stack+Engineer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=60&lines=Flutter+%E2%86%92+Building+beautiful+mobile+apps;Node.js+%E2%86%92+Scalable+backend+systems;React+%E2%86%92+Crafting+web+experiences;AI+%E2%86%92+Making+apps+smarter+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
-<!-- Social Links -->
-<p align="center">
+<br/>
+
+<!-- Profile view counter + social badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=JMNaveeth&label=Profile+Views&color=0e75b6&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
+  &nbsp;
   <a href="https://www.linkedin.com/in/muhammed-naveeth/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
+  &nbsp;
   <a href="mailto:naveethkinniya2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="https://github.com/JMNaveeth">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_To-Opportunities-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0D1117" />
 </p>
 
 </div>
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED DIVIDER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 👨‍💻 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> &nbsp; About Me
 
 ```typescript
-const naveeth = {
-    location: "🇱🇰 Sri Lanka",
-    education: "🎓 Institute of Technology University of Moratuwa",
-    role: "Mobile Developer & Full-Stack Engineer",
-    code: ["Dart", "JavaScript", "TypeScript", "PHP", "CSS"],
-    technologies: {
-        mobile: ["Flutter"],
-        frontend: ["React", "HTML5", "CSS3"],
-        backend: ["Node.js", "Express"],
-        databases: ["MySQL", "Firebase"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    currentFocus: "Building seamless mobile experiences with Flutter",
-    activeProjects: ["Salon Web App", "Multilingual App", "Portfolio Website"]
+const naveeth: Developer = {
+  location   : "🇱🇰  Sri Lanka",
+  education  : "🎓  University of Moratuwa — Institute of Technology",
+  status     : "💼  Open to exciting opportunities",
+
+  philosophy : "Every line of code should serve the user — not just the machine.",
+
+  currently  : {
+    building : ["AI-integrated mobile apps", "Clean Flutter architectures"],
+    learning : ["BLoC pattern", "Node.js advanced patterns"],
+    exploring: ["AI × Mobile", "Cloud-native backends"]
+  },
+
+  superpower : "I build products, not just features.",
 };
 ```
 
 <br/>
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TECH ARSENAL                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## ⚡ &nbsp; Tech Arsenal
 
 <div align="center">
 
-<!-- 3D Tech Stack with Skill Icons -->
-<!-- Rotating Tech Icons -->
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="65" height="65" />  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
+### ━━━━━━━  Core Generators  ━━━━━━━
+
+<p>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
 </p>
 
-</div>
+### ━━━━━━━  Full Stack  ━━━━━━━
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,ts,js,html,css,nodejs,express,php,mysql,git,figma,vscode,postman&perline=8" />
+</p>
 
 <br/>
 
-<div align="center">
-
-### 📱 Mobile Development
+### ━━━━━━━  Proficiency  ━━━━━━━
 
 <table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-<br>Flutter
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-<br>Dart
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-</tr>
-</table>
-
-### 🌐 Frontend Development
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-<br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-<br>CSS3
-</td>
-</tr>
-</table>
-
-### ⚙️ Backend & Database
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-<br>Express
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-<br>PHP
-</td>
-</tr>
-</table>
-
-### 🔧 Tools & DevOps
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-<br>Figma
-</td>
-</tr>
+  <tr>
+    <td><b>📱 Flutter / Dart</b></td>
+    <td><img src="https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▱-90%25-38BDF8?style=flat-square&labelColor=0D1117&color=0D1117"/>
+    <img src="https://img.shields.io/badge/-Expert-38BDF8?style=flat-square&labelColor=0D1117"/></td>
+  </tr>
+  <tr>
+    <td><b>⚛️ React / TypeScript</b></td>
+    <td><img src="https://img.shields.io/badge/▰▰▰▰▰▰▰▰▱▱-80%25-7C3AED?style=flat-square&labelColor=0D1117&color=0D1117"/>
+    <img src="https://img.shields.io/badge/-Advanced-7C3AED?style=flat-square&labelColor=0D1117"/></td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Node.js / Express</b></td>
+    <td><img src="https://img.shields.io/badge/▰▰▰▰▰▰▰▱▱▱-72%25-22C55E?style=flat-square&labelColor=0D1117&color=0D1117"/>
+    <img src="https://img.shields.io/badge/-Proficient-22C55E?style=flat-square&labelColor=0D1117"/></td>
+  </tr>
+  <tr>
+    <td><b>🗄️ MySQL / Firebase</b></td>
+    <td><img src="https://img.shields.io/badge/▰▰▰▰▰▰▰▱▱▱-75%25-F59E0B?style=flat-square&labelColor=0D1117&color=0D1117"/>
+    <img src="https://img.shields.io/badge/-Proficient-F59E0B?style=flat-square&labelColor=0D1117"/></td>
+  </tr>
 </table>
 
 </div>
 
 <br/>
 
-<!-- Animated Tech Stack Banner -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## 🚀 Featured Projects
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### 🎨 Salon Web App
-
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-**A modern salon booking platform**
-
-✨ Responsive design  
-✨ Online appointment system  
-✨ Service showcase  
-✨ 62 commits & counting
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/JMNaveeth/Salon_web)
-
-</td>
-<td width="50%" align="center">
-
-### 🌍 Multilingual App
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-
-**Multi-language mobile application**
-
-✨ Cross-platform support  
-✨ Dynamic language switching  
-✨ Clean architecture  
-✨ 27 commits & active
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/JMNaveeth/Multilingual_App)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 💼 My Portfolio
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-**Professional portfolio website**
-
-✨ Modern & responsive  
-✨ Project showcase  
-✨ Blog section  
-✨ Contact integration
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/JMNaveeth/My-Portfolio)
-
-</td>
-<td width="50%" align="center">
-
-### 🛠️ TapOn
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-
-**Service & tool rental platform**
-
-✨ AI-powered chatbot  
-✨ Real-time tracking  
-✨ Secure payments  
-✨ Full-stack solution
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/JMNaveeth/TapOn)
-
-</td>
-</tr>
-</table>
+## 🚀 &nbsp; Featured Projects
 
 <div align="center">
 
-[![More Projects](https://img.shields.io/badge/View_All_Projects-FFA500?style=for-the-badge&logo=github)](https://github.com/JMNaveeth?tab=repositories)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JMNaveeth&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMNaveeth&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JMNaveeth&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" width="100%" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
-## 🔥 Current Stats
-
-<div align="center">
-
-```text
-📦 405+ Contributions in 2025-2026
-📂 6 Public Repositories  
-💻 Primary Languages: Dart, CSS, TypeScript, HTML
-🔥 Active Streak: Coding Consistently
-⭐ Building & Learning Daily
-🎯 2026 Goal: 500+ Contributions
-```
-
-</div>
-
-<br/>
-
-
-## 📜 Certifications
-
-<div align="center">
-
-| Certificate | Platform | Status |
-|------------|----------|--------|
-| 🎓 Flutter Developer | Udemy | Certified |
-| 🎓 JavaScript Algorithms & Data Structures | freeCodeCamp | Certified |
-| 🎓 Full-Stack Web Development | Coursera | Certified |
-| 🎓 Node.js Backend Development | Udemy | In Progress |
-
-</div>
-
-<br/>
-
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-**Open to collaborating on innovative projects!**
-
-Especially interested in:
-- 📱 Mobile App Development (Flutter)
-- 🌐 Full-Stack Web Applications
-- 🤖 AI Integration Projects
-- ☁️ Cloud Solutions
-
-<br/>
-
-**📧 Get in Touch:**
-
-<a href="mailto:naveethkinniya2001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-naveethkinniya2001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/JMNaveeth/TapOn">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=TapOn&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" />
 </a>
+
+</div>
+
 <br/>
+
+> 🏆 **Flagship —** Full-stack **service & tool rental platform** (think Uber, but for skilled workers & equipment)
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**✦ Key Features**
+- 🤖 AI-powered chatbot for service matching
+- 📍 Real-time GPS tracking for providers
+- 💳 Secure end-to-end payment processing
+- 📲 One codebase → iOS & Android
+
+</td>
+<td width="50%" valign="top">
+
+**✦ Built With**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0D1117)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<br/>
+
+<a href="https://github.com/JMNaveeth/Salon_web">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=Salon_web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" />
+</a>
+&nbsp;
+<a href="https://github.com/JMNaveeth/Multilingual_App">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=Multilingual_App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/JMNaveeth/My-Portfolio">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=My-Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" />
+</a>
+
+<br/><br/>
+
+[![All Repos](https://img.shields.io/badge/⟶_View_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/JMNaveeth?tab=repositories)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB ANALYTICS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## 📊 &nbsp; GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JMNaveeth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&rank_icon=percentile&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JMNaveeth&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=6" height="170" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMNaveeth&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&stroke=38BDF8" width="75%" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JMNaveeth&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=F59E0B&area=true&area_color=38BDF8&radius=6" width="100%" alt="Contribution Activity Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| 📦 Contributions 2025–26 | 📂 Public Repos | 🔥 Streak | 🎯 2026 Goal |
+|:---:|:---:|:---:|:---:|
+| **405+** | **6** | **Consistent** | **500+** |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CERTIFICATIONS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## 🏅 &nbsp; Certifications
+
+<div align="center">
+
+<table>
+<tr>
+  <td align="center" width="50%">
+    <img src="https://img.shields.io/badge/Flutter_Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117"/>
+    <br/><sub><b>Udemy &nbsp;·&nbsp; ✅ Certified</b></sub>
+  </td>
+  <td align="center" width="50%">
+    <img src="https://img.shields.io/badge/JS_Algorithms_%26_Data_Structures-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117"/>
+    <br/><sub><b>freeCodeCamp &nbsp;·&nbsp; ✅ Certified</b></sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="50%">
+    <img src="https://img.shields.io/badge/Full--Stack_Web_Development-0052CC?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0D1117"/>
+    <br/><sub><b>Coursera &nbsp;·&nbsp; ✅ Certified</b></sub>
+  </td>
+  <td align="center" width="50%">
+    <img src="https://img.shields.io/badge/Node.js_Backend_Development-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117"/>
+    <br/><sub><b>Udemy &nbsp;·&nbsp; 🔄 In Progress</b></sub>
+  </td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CONNECT SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## 🤝 &nbsp; Let's Build Something Together
+
+<div align="center">
+
+*I'm actively looking for opportunities where I can build impactful products.*
+*Flutter app · Full-stack idea · AI integration challenge — I'm in.*
+
+<br/>
+
 <a href="https://www.linkedin.com/in/muhammed-naveeth/">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammed_Naveeth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammed_Naveeth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:naveethkinniya2001@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-naveethkinniya2001@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/JMNaveeth">
+  <img src="https://img.shields.io/badge/GitHub-JMNaveeth-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-<br/>
-
-<div align="center">
-
-## 💡 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+<!-- Snake eating your contributions grid -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
 
-**⭐ From [JMNaveeth](https://github.com/JMNaveeth) | Building the future, one commit at a time**
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213E,50:0F3460,100:0D1117&height=120&section=footer&text=Built+with+%E2%9D%A4%EF%B8%8F+%26+Flutter+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0&fontSize=16&fontColor=38BDF8&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 </div>
