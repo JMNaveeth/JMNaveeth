@@ -149,7 +149,11 @@ const naveeth: Developer = {
 <p align="center">🤖 AI Chatbot &nbsp;|&nbsp; 📍 Live Tracking &nbsp;|&nbsp; 💳 Payments</p>
 <p align="center">
 <a href="https://github.com/JMNaveeth/TapOn">
-<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_TAPON_DEMO_URL">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
 </a>
 </p>
 </div>
@@ -170,7 +174,11 @@ const naveeth: Developer = {
 <p align="center">💅 Booking System &nbsp;|&nbsp; 🔐 Auth &nbsp;|&nbsp; 📱 Cross-Platform</p>
 <p align="center">
 <a href="https://github.com/JMNaveeth/Luxe-Salon-App">
-<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_LUXE_SALON_DEMO_URL">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
 </a>
 </p>
 </div>
@@ -202,7 +210,11 @@ const naveeth: Developer = {
 <p align="center">🍕 Menu System &nbsp;|&nbsp; 🛒 Cart &nbsp;|&nbsp; 🔥 Firebase Auth</p>
 <p align="center">
 <a href="https://github.com/JMNaveeth/Lux-Bite">
-<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_LUX_BITE_DEMO_URL">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
 </a>
 </p>
 </div>
@@ -223,7 +235,11 @@ const naveeth: Developer = {
 <p align="center">📅 Appointments &nbsp;|&nbsp; 👥 Staff Mgmt &nbsp;|&nbsp; 💼 Dashboard</p>
 <p align="center">
 <a href="https://github.com/JMNaveeth/JK_Salon">
-<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_JK_SALON_DEMO_URL">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
 </a>
 </p>
 </div>
@@ -254,7 +270,11 @@ const naveeth: Developer = {
 <p align="center">🏎️ Physics Engine &nbsp;|&nbsp; 🏆 Levels &nbsp;|&nbsp; 🎯 Web Game</p>
 <p align="center">
 <a href="https://github.com/JMNaveeth/Hill-Climb-Racing_Clone-Web-Game">
-<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_HILL_CLIMB_DEMO_URL">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
 </a>
 </p>
 </div>
@@ -274,7 +294,11 @@ const naveeth: Developer = {
 <p align="center">🗣️ Dynamic i18n &nbsp;|&nbsp; 🔄 Live Switching &nbsp;|&nbsp; 📱 Mobile First</p>
 <p align="center">
 <a href="https://github.com/JMNaveeth/Multilingual_App">
-<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_MULTILINGUAL_DEMO_URL">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
 </a>
 </p>
 </div>
@@ -305,7 +329,11 @@ const naveeth: Developer = {
 <p align="center">🎨 Responsive UI &nbsp;|&nbsp; 📅 Booking &nbsp;|&nbsp; ✨ Animations</p>
 <p align="center">
 <a href="https://github.com/JMNaveeth/Salon_web">
-<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_SALON_WEB_DEMO_URL">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
 </a>
 </p>
 </div>
@@ -326,7 +354,11 @@ const naveeth: Developer = {
 <p align="center">⚡ Fast &nbsp;|&nbsp; 🎨 Modern Design &nbsp;|&nbsp; 📬 Contact Form</p>
 <p align="center">
 <a href="https://github.com/JMNaveeth/My-Portfolio">
-<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_PORTFOLIO_DEMO_URL">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
 </a>
 </p>
 </div>
