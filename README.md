@@ -128,52 +128,57 @@ const naveeth: Developer = {
 
 <div align="center">
 
+<!-- ★ FLAGSHIP ★ -->
+<table width="100%">
+<tr>
+<td align="center" colspan="2">
+
+### 🏆 Flagship Project
+
 <a href="https://github.com/JMNaveeth/TapOn">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=TapOn&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=TapOn&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=94A3B8&icon_color=F59E0B&border_color=F59E0B" width="420"/>
 </a>
 
-</div>
+> *Think **Uber** — but for skilled workers & equipment rentals*
 
-<br/>
-
-> 🏆 **Flagship —** Full-stack **service & tool rental platform** (think Uber, but for skilled workers & equipment)
-
-<div align="center">
-
-<table>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
-**✦ Key Features**
-- 🤖 AI-powered chatbot for service matching
-- 📍 Real-time GPS tracking for providers
-- 💳 Secure end-to-end payment processing
-- 📲 One codebase → iOS & Android
+**✦ What it does**
+
+&nbsp; 🤖 &nbsp; AI-powered chatbot for instant service matching<br/>
+&nbsp; 📍 &nbsp; Real-time GPS tracking for providers<br/>
+&nbsp; 💳 &nbsp; Secure end-to-end payment processing<br/>
+&nbsp; 📲 &nbsp; One codebase → iOS & Android<br/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="right">
 
 **✦ Built With**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0D1117)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0D1117)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-<div align="center">
+---
+
+### ◈ &nbsp; Other Projects &nbsp; ◈
 
 <br/>
 
 <a href="https://github.com/JMNaveeth/Salon_web">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=Salon_web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/JMNaveeth/Multilingual_App">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=Multilingual_App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" />
 </a>
@@ -186,7 +191,9 @@ const naveeth: Developer = {
 
 <br/><br/>
 
-[![All Repos](https://img.shields.io/badge/⟶_View_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/JMNaveeth?tab=repositories)
+<a href="https://github.com/JMNaveeth?tab=repositories">
+  <img src="https://img.shields.io/badge/★_View_All_Repositories_★-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&color=0D1117&labelColor=0F3460" />
+</a>
 
 </div>
 
