@@ -132,56 +132,41 @@ const naveeth: Developer = {
 <table>
 <tr>
 
-<td width="50%" valign="top">
-<div align="center">
+<td width="50%" valign="top" align="center">
+<br/>
 <h3>📱 TapOn</h3>
-<a href="https://github.com/JMNaveeth/TapOn">
+<p><sub>On-demand service & tool rental platform with AI chatbot, live GPS tracking and secure payments — all in one Flutter app.</sub></p>
+<p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</a>
+</p>
+<p>
+<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/TapOn?style=flat-square&label=Commits&color=38BDF8&labelColor=0D1117&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/JMNaveeth/TapOn?style=flat-square&label=Last+Push&color=22C55E&labelColor=0D1117&logo=git"/>
+</p>
+<a href="https://github.com/JMNaveeth/TapOn"><img src="https://img.shields.io/badge/Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_DEMO_URL"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <br/><br/>
-<p align="center"><sub>A full-stack on-demand service & tool rental platform connecting clients with skilled workers in real time — built with an AI-powered chatbot, live GPS tracking, and secure payment integration across iOS & Android.</sub></p>
-<br/>
-<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/TapOn?style=flat-square&logo=github&label=Total+Commits&color=38BDF8&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/last-commit/JMNaveeth/TapOn?style=flat-square&logo=git&label=Last+Commit&color=22C55E&labelColor=0D1117"/>
-<br/><br/>
-<p>🤖 AI Chatbot &nbsp;|&nbsp; 📍 Live GPS &nbsp;|&nbsp; 💳 Payments &nbsp;|&nbsp; 📲 Cross-Platform</p>
-<a href="https://github.com/JMNaveeth/TapOn">
-<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_TAPON_DEMO_URL">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
-</a>
-</div>
 </td>
 
-<td width="50%" valign="top">
-<div align="center">
+<td width="50%" valign="top" align="center">
+<br/>
 <h3>💇 Luxe Salon App</h3>
-<a href="https://github.com/JMNaveeth/Luxe-Salon-App">
+<p><sub>Premium Flutter salon app with appointment booking, staff management, client profiles and Firebase auth for iOS & Android.</sub></p>
+<p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-</a>
+</p>
+<p>
+<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/Luxe-Salon-App?style=flat-square&label=Commits&color=38BDF8&labelColor=0D1117&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/JMNaveeth/Luxe-Salon-App?style=flat-square&label=Last+Push&color=22C55E&labelColor=0D1117&logo=git"/>
+</p>
+<a href="https://github.com/JMNaveeth/Luxe-Salon-App"><img src="https://img.shields.io/badge/Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_DEMO_URL"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <br/><br/>
-<p align="center"><sub>A premium Flutter-based salon management app featuring appointment scheduling, staff management, client profiles, and Firebase authentication — delivering a seamless beauty service experience on both iOS & Android.</sub></p>
-<br/>
-<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/Luxe-Salon-App?style=flat-square&logo=github&label=Total+Commits&color=38BDF8&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/last-commit/JMNaveeth/Luxe-Salon-App?style=flat-square&logo=git&label=Last+Commit&color=22C55E&labelColor=0D1117"/>
-<br/><br/>
-<p>💅 Appointments &nbsp;|&nbsp; 🔐 Firebase Auth &nbsp;|&nbsp; 👤 Profiles &nbsp;|&nbsp; 📱 Mobile</p>
-<a href="https://github.com/JMNaveeth/Luxe-Salon-App">
-<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_LUXE_SALON_DEMO_URL">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
-</a>
-</div>
 </td>
 
 </tr>
@@ -193,55 +178,41 @@ const naveeth: Developer = {
 <table>
 <tr>
 
-<td width="50%" valign="top">
-<div align="center">
+<td width="50%" valign="top" align="center">
+<br/>
 <h3>🍽️ Lux Bite</h3>
-<a href="https://github.com/JMNaveeth/Lux-Bite">
+<p><sub>Full-stack food ordering platform with dynamic menu, cart system, Firebase real-time database and clean Tailwind UI.</sub></p>
+<p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/Lux-Bite?style=flat-square&label=Commits&color=38BDF8&labelColor=0D1117&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/JMNaveeth/Lux-Bite?style=flat-square&label=Last+Push&color=22C55E&labelColor=0D1117&logo=git"/>
+</p>
+<a href="https://github.com/JMNaveeth/Lux-Bite"><img src="https://img.shields.io/badge/Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_DEMO_URL"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <br/><br/>
-<p align="center"><sub>A modern full-stack food ordering web platform built with React & TypeScript, featuring dynamic menu browsing, cart management, Firebase real-time database, and secure user authentication with a clean Tailwind UI.</sub></p>
-<br/>
-<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/Lux-Bite?style=flat-square&logo=github&label=Total+Commits&color=38BDF8&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/last-commit/JMNaveeth/Lux-Bite?style=flat-square&logo=git&label=Last+Commit&color=22C55E&labelColor=0D1117"/>
-<br/><br/>
-<p>🍕 Menu System &nbsp;|&nbsp; 🛒 Cart &nbsp;|&nbsp; 🔥 Realtime DB &nbsp;|&nbsp; 🔐 Auth</p>
-<a href="https://github.com/JMNaveeth/Lux-Bite">
-<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_LUX_BITE_DEMO_URL">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
-</a>
-</div>
 </td>
 
-<td width="50%" valign="top">
-<div align="center">
+<td width="50%" valign="top" align="center">
+<br/>
 <h3>✂️ JK Salon</h3>
-<a href="https://github.com/JMNaveeth/JK_Salon">
+<p><sub>Salon management web system with online booking, staff scheduling and admin dashboard — powered by Node.js REST API.</sub></p>
+<p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-</a>
+</p>
+<p>
+<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/JK_Salon?style=flat-square&label=Commits&color=38BDF8&labelColor=0D1117&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/JMNaveeth/JK_Salon?style=flat-square&label=Last+Push&color=22C55E&labelColor=0D1117&logo=git"/>
+</p>
+<a href="https://github.com/JMNaveeth/JK_Salon"><img src="https://img.shields.io/badge/Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_DEMO_URL"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <br/><br/>
-<p align="center"><sub>A TypeScript-powered salon management web system with online appointment booking, service catalogue, staff scheduling, and an admin dashboard — backed by a Node.js REST API and lightweight SQLite database.</sub></p>
-<br/>
-<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/JK_Salon?style=flat-square&logo=github&label=Total+Commits&color=38BDF8&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/last-commit/JMNaveeth/JK_Salon?style=flat-square&logo=git&label=Last+Commit&color=22C55E&labelColor=0D1117"/>
-<br/><br/>
-<p>📅 Booking &nbsp;|&nbsp; 👥 Staff Scheduling &nbsp;|&nbsp; 💼 Admin Panel &nbsp;|&nbsp; 🔗 REST API</p>
-<a href="https://github.com/JMNaveeth/JK_Salon">
-<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_JK_SALON_DEMO_URL">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
-</a>
-</div>
 </td>
 
 </tr>
@@ -253,53 +224,39 @@ const naveeth: Developer = {
 <table>
 <tr>
 
-<td width="50%" valign="top">
-<div align="center">
+<td width="50%" valign="top" align="center">
+<br/>
 <h3>🎮 Hill Climb Racing Clone</h3>
-<a href="https://github.com/JMNaveeth/Hill-Climb-Racing_Clone-Web-Game">
+<p><sub>Browser-based racing game with custom 2D physics engine, terrain generation and vehicle garage — built in pure JavaScript.</sub></p>
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</a>
+</p>
+<p>
+<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/Hill-Climb-Racing_Clone-Web-Game?style=flat-square&label=Commits&color=38BDF8&labelColor=0D1117&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/JMNaveeth/Hill-Climb-Racing_Clone-Web-Game?style=flat-square&label=Last+Push&color=22C55E&labelColor=0D1117&logo=git"/>
+</p>
+<a href="https://github.com/JMNaveeth/Hill-Climb-Racing_Clone-Web-Game"><img src="https://img.shields.io/badge/Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_DEMO_URL"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <br/><br/>
-<p align="center"><sub>A browser-based Hill Climb Racing clone built in pure JavaScript with a custom 2D physics engine, multi-level terrain generation, vehicle garage system, and smooth canvas rendering — zero frameworks, pure web technology.</sub></p>
-<br/>
-<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/Hill-Climb-Racing_Clone-Web-Game?style=flat-square&logo=github&label=Total+Commits&color=38BDF8&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/last-commit/JMNaveeth/Hill-Climb-Racing_Clone-Web-Game?style=flat-square&logo=git&label=Last+Commit&color=22C55E&labelColor=0D1117"/>
-<br/><br/>
-<p>🏎️ Physics Engine &nbsp;|&nbsp; 🗺️ Levels &nbsp;|&nbsp; 🚗 Garage &nbsp;|&nbsp; 🎯 Pure JS</p>
-<a href="https://github.com/JMNaveeth/Hill-Climb-Racing_Clone-Web-Game">
-<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_HILL_CLIMB_DEMO_URL">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
-</a>
-</div>
 </td>
 
-<td width="50%" valign="top">
-<div align="center">
+<td width="50%" valign="top" align="center">
+<br/>
 <h3>🌍 Multilingual App</h3>
-<a href="https://github.com/JMNaveeth/Multilingual_App">
+<p><sub>Flutter app with dynamic runtime language switching, locale persistence and clean architecture — fully responsive across all languages.</sub></p>
+<p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-</a>
+</p>
+<p>
+<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/Multilingual_App?style=flat-square&label=Commits&color=38BDF8&labelColor=0D1117&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/JMNaveeth/Multilingual_App?style=flat-square&label=Last+Push&color=22C55E&labelColor=0D1117&logo=git"/>
+</p>
+<a href="https://github.com/JMNaveeth/Multilingual_App"><img src="https://img.shields.io/badge/Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_DEMO_URL"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <br/><br/>
-<p align="center"><sub>A Flutter mobile application showcasing advanced internationalization with dynamic language switching at runtime, clean architecture patterns, locale persistence, and a fully responsive UI adapting seamlessly across multiple languages.</sub></p>
-<br/>
-<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/Multilingual_App?style=flat-square&logo=github&label=Total+Commits&color=38BDF8&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/last-commit/JMNaveeth/Multilingual_App?style=flat-square&logo=git&label=Last+Commit&color=22C55E&labelColor=0D1117"/>
-<br/><br/>
-<p>🗣️ Runtime i18n &nbsp;|&nbsp; 🔄 Live Switching &nbsp;|&nbsp; 💾 Persistence &nbsp;|&nbsp; 🧱 Clean Arch</p>
-<a href="https://github.com/JMNaveeth/Multilingual_App">
-<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_MULTILINGUAL_DEMO_URL">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
-</a>
-</div>
 </td>
 
 </tr>
@@ -311,54 +268,40 @@ const naveeth: Developer = {
 <table>
 <tr>
 
-<td width="50%" valign="top">
-<div align="center">
+<td width="50%" valign="top" align="center">
+<br/>
 <h3>💈 Salon Web</h3>
-<a href="https://github.com/JMNaveeth/Salon_web">
+<p><sub>Responsive salon landing & booking website with smooth animations and mobile-first design — built with pure HTML, CSS & JS.</sub></p>
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</a>
+</p>
+<p>
+<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/Salon_web?style=flat-square&label=Commits&color=38BDF8&labelColor=0D1117&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/JMNaveeth/Salon_web?style=flat-square&label=Last+Push&color=22C55E&labelColor=0D1117&logo=git"/>
+</p>
+<a href="https://github.com/JMNaveeth/Salon_web"><img src="https://img.shields.io/badge/Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_DEMO_URL"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <br/><br/>
-<p align="center"><sub>A fully responsive salon landing & booking website crafted with pure HTML, CSS & JavaScript — featuring smooth scroll animations, an interactive service showcase, online appointment form, and mobile-first design principles.</sub></p>
-<br/>
-<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/Salon_web?style=flat-square&logo=github&label=Total+Commits&color=38BDF8&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/last-commit/JMNaveeth/Salon_web?style=flat-square&logo=git&label=Last+Commit&color=22C55E&labelColor=0D1117"/>
-<br/><br/>
-<p>📱 Mobile-First &nbsp;|&nbsp; ✨ CSS Animations &nbsp;|&nbsp; 📅 Booking Form &nbsp;|&nbsp; 🎨 Modern UI</p>
-<a href="https://github.com/JMNaveeth/Salon_web">
-<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_SALON_WEB_DEMO_URL">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
-</a>
-</div>
 </td>
 
-<td width="50%" valign="top">
-<div align="center">
+<td width="50%" valign="top" align="center">
+<br/>
 <h3>🖥️ My Portfolio</h3>
-<a href="https://github.com/JMNaveeth/My-Portfolio">
+<p><sub>High-performance personal portfolio with React & TypeScript — showcasing projects, skills, certifications and a working contact form.</sub></p>
+<p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</a>
+</p>
+<p>
+<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/My-Portfolio?style=flat-square&label=Commits&color=38BDF8&labelColor=0D1117&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/JMNaveeth/My-Portfolio?style=flat-square&label=Last+Push&color=22C55E&labelColor=0D1117&logo=git"/>
+</p>
+<a href="https://github.com/JMNaveeth/My-Portfolio"><img src="https://img.shields.io/badge/Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_DEMO_URL"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <br/><br/>
-<p align="center"><sub>A high-performance personal portfolio built with React & TypeScript, showcasing projects, skills, and certifications — featuring component-based architecture, smooth page transitions, a blog section, and a fully functional contact form.</sub></p>
-<br/>
-<img src="https://img.shields.io/github/commit-activity/t/JMNaveeth/My-Portfolio?style=flat-square&logo=github&label=Total+Commits&color=38BDF8&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/last-commit/JMNaveeth/My-Portfolio?style=flat-square&logo=git&label=Last+Commit&color=22C55E&labelColor=0D1117"/>
-<br/><br/>
-<p>⚡ Blazing Fast &nbsp;|&nbsp; 🧩 Component-Based &nbsp;|&nbsp; 🎨 Custom Design &nbsp;|&nbsp; 📬 Contact</p>
-<a href="https://github.com/JMNaveeth/My-Portfolio">
-<img src="https://img.shields.io/badge/⚡_View_Code-0F3460?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_PORTFOLIO_DEMO_URL">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=166534"/>
-</a>
-</div>
 </td>
 
 </tr>
@@ -367,7 +310,7 @@ const naveeth: Developer = {
 <br/>
 
 <a href="https://github.com/JMNaveeth?tab=repositories">
-  <img src="https://img.shields.io/badge/◆_Explore_All_Repositories_◆-0F3460?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/◆_Explore_All_Repositories_◆-0F3460?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
 </div>
