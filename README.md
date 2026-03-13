@@ -128,77 +128,222 @@ const naveeth: Developer = {
 
 <div align="center">
 
-<!-- ★ FLAGSHIP ★ -->
-<table width="100%">
+<!-- ROW 1 -->
+<table>
 <tr>
-<td align="center" colspan="2">
 
-### 🏆 Flagship Project
-
-<a href="https://github.com/JMNaveeth/TapOn">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=TapOn&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=94A3B8&icon_color=F59E0B&border_color=F59E0B" width="420"/>
-</a>
-
-> *Think **Uber** — but for skilled workers & equipment rentals*
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-
-**✦ What it does**
-
-&nbsp; 🤖 &nbsp; AI-powered chatbot for instant service matching<br/>
-&nbsp; 📍 &nbsp; Real-time GPS tracking for providers<br/>
-&nbsp; 💳 &nbsp; Secure end-to-end payment processing<br/>
-&nbsp; 📲 &nbsp; One codebase → iOS & Android<br/>
-
+<h3 align="center">📱 TapOn</h3>
+<div align="center">
+<a href="https://github.com/JMNaveeth/TapOn" target="_blank">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=TapOn&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&border_color=38BDF8&border_radius=12&description_lines_count=2" width="100%"/>
+</a>
+<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+<p align="center">🤖 AI Chatbot &nbsp;|&nbsp; 📍 Live Tracking &nbsp;|&nbsp; 💳 Payments</p>
+<p align="center">
+<a href="https://github.com/JMNaveeth/TapOn">
+<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+</a>
+</p>
+</div>
 </td>
-<td width="50%" valign="top" align="right">
 
-**✦ Built With**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
-
+<td width="50%" valign="top">
+<h3 align="center">💇 Luxe Salon App</h3>
+<div align="center">
+<a href="https://github.com/JMNaveeth/Luxe-Salon-App" target="_blank">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=Luxe-Salon-App&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&border_color=38BDF8&border_radius=12&description_lines_count=2" width="100%"/>
+</a>
+<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</p>
+<p align="center">💅 Booking System &nbsp;|&nbsp; 🔐 Auth &nbsp;|&nbsp; 📱 Cross-Platform</p>
+<p align="center">
+<a href="https://github.com/JMNaveeth/Luxe-Salon-App">
+<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+</a>
+</p>
+</div>
 </td>
+
+</tr>
+</table>
+
+<!-- DIVIDER -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+
+<!-- ROW 2 -->
+<table>
+<tr>
+
+<td width="50%" valign="top">
+<h3 align="center">🍽️ Lux Bite</h3>
+<div align="center">
+<a href="https://github.com/JMNaveeth/Lux-Bite" target="_blank">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=Lux-Bite&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&border_color=38BDF8&border_radius=12&description_lines_count=2" width="100%"/>
+</a>
+<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+<p align="center">🍕 Menu System &nbsp;|&nbsp; 🛒 Cart &nbsp;|&nbsp; 🔥 Firebase Auth</p>
+<p align="center">
+<a href="https://github.com/JMNaveeth/Lux-Bite">
+<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+</a>
+</p>
+</div>
+</td>
+
+<td width="50%" valign="top">
+<h3 align="center">✂️ JK Salon</h3>
+<div align="center">
+<a href="https://github.com/JMNaveeth/JK_Salon" target="_blank">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=JK_Salon&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&border_color=38BDF8&border_radius=12&description_lines_count=2" width="100%"/>
+</a>
+<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+</p>
+<p align="center">📅 Appointments &nbsp;|&nbsp; 👥 Staff Mgmt &nbsp;|&nbsp; 💼 Dashboard</p>
+<p align="center">
+<a href="https://github.com/JMNaveeth/JK_Salon">
+<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+</a>
+</p>
+</div>
+</td>
+
+</tr>
+</table>
+
+<!-- DIVIDER -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+
+<!-- ROW 3 -->
+<table>
+<tr>
+
+<td width="50%" valign="top">
+<h3 align="center">🎮 Hill Climb Racing Clone</h3>
+<div align="center">
+<a href="https://github.com/JMNaveeth/Hill-Climb-Racing_Clone-Web-Game" target="_blank">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=Hill-Climb-Racing_Clone-Web-Game&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&border_color=38BDF8&border_radius=12&description_lines_count=2" width="100%"/>
+</a>
+<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+<p align="center">🏎️ Physics Engine &nbsp;|&nbsp; 🏆 Levels &nbsp;|&nbsp; 🎯 Web Game</p>
+<p align="center">
+<a href="https://github.com/JMNaveeth/Hill-Climb-Racing_Clone-Web-Game">
+<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+</a>
+</p>
+</div>
+</td>
+
+<td width="50%" valign="top">
+<h3 align="center">🌍 Multilingual App</h3>
+<div align="center">
+<a href="https://github.com/JMNaveeth/Multilingual_App" target="_blank">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=Multilingual_App&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&border_color=38BDF8&border_radius=12&description_lines_count=2" width="100%"/>
+</a>
+<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+</p>
+<p align="center">🗣️ Dynamic i18n &nbsp;|&nbsp; 🔄 Live Switching &nbsp;|&nbsp; 📱 Mobile First</p>
+<p align="center">
+<a href="https://github.com/JMNaveeth/Multilingual_App">
+<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+</a>
+</p>
+</div>
+</td>
+
+</tr>
+</table>
+
+<!-- DIVIDER -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+
+<!-- ROW 4 -->
+<table>
+<tr>
+
+<td width="50%" valign="top">
+<h3 align="center">💈 Salon Web</h3>
+<div align="center">
+<a href="https://github.com/JMNaveeth/Salon_web" target="_blank">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=Salon_web&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&border_color=38BDF8&border_radius=12&description_lines_count=2" width="100%"/>
+</a>
+<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+<p align="center">🎨 Responsive UI &nbsp;|&nbsp; 📅 Booking &nbsp;|&nbsp; ✨ Animations</p>
+<p align="center">
+<a href="https://github.com/JMNaveeth/Salon_web">
+<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+</a>
+</p>
+</div>
+</td>
+
+<td width="50%" valign="top">
+<h3 align="center">🖥️ My Portfolio</h3>
+<div align="center">
+<a href="https://github.com/JMNaveeth/My-Portfolio" target="_blank">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=My-Portfolio&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&border_color=38BDF8&border_radius=12&description_lines_count=2" width="100%"/>
+</a>
+<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+<p align="center">⚡ Fast &nbsp;|&nbsp; 🎨 Modern Design &nbsp;|&nbsp; 📬 Contact Form</p>
+<p align="center">
+<a href="https://github.com/JMNaveeth/My-Portfolio">
+<img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F3460"/>
+</a>
+</p>
+</div>
+</td>
+
 </tr>
 </table>
 
 <br/>
 
----
-
-### ◈ &nbsp; Other Projects &nbsp; ◈
-
-<br/>
-
-<a href="https://github.com/JMNaveeth/Salon_web">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=Salon_web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/JMNaveeth/Multilingual_App">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=Multilingual_App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/JMNaveeth/My-Portfolio">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JMNaveeth&repo=My-Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" />
-</a>
-
-<br/><br/>
-
 <a href="https://github.com/JMNaveeth?tab=repositories">
-  <img src="https://img.shields.io/badge/★_View_All_Repositories_★-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&color=0D1117&labelColor=0F3460" />
+  <img src="https://img.shields.io/badge/◆_Explore_All_Repositories_◆-0F3460?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
 </div>
 
 <br/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    GITHUB ANALYTICS                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
